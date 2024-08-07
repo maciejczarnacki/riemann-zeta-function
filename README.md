@@ -6,3 +6,9 @@ I like python and sympy. Take a look at the animation I prepared below. If someo
 
 ![Riemann zeta function](/plots/riemann.gif)
 
+### Links
+
+https://en.wikipedia.org/wiki/Riemann_hypothesis
+
+https://en.wikipedia.org/wiki/Millennium_Prize_Problems
+
